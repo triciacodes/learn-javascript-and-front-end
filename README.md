@@ -4,6 +4,13 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks.
 
 ## Objectives
 
+## Projects
+- [ ] New portfolio website
+- [ ] Friends of Graphic Design website
+- [ ] Editorial project (TBD)
+- [ ] Complex JavaScript project (TBD)
+- [ ] Project incorporating Python/Flask (TBD)
+
 ## Week 1 _____ July 31 – Aug 6
 #### Shay Howe
 - [ ] [HTML & CSS](http://learn.shayhowe.com/html-css/) (_review Box Model, Positioning Content, Writing Your Best Code_)
@@ -20,13 +27,16 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks.
 - [ ] Booleans
 - [ ] Loops of Logic
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
-- [x] Chapter 1: The ABC of Programming
+- [ ] Chapter 1: The ABC of Programming
 - [ ] Chapter 2: Basic JavaScript Instructions
 - [ ] Chapter 3: Functions, Methods, & Objects
 #### Articles
 - [ ] [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 
+
 ## Week 2 _____ Aug 5 – Aug 13
+#### Codecademy
+- [ ] [Sass](https://www.codecademy.com/learn/learn-sass)
 #### [Watch and Code: Practical JavaScript](https://watchandcode.com)
 - [ ] Thinking in Code
 - [ ] Data Types and Comparisons
@@ -41,6 +51,7 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks.
 
 #### Videos
 - [ ] [Google Chrome Developer Tools](https://www.youtube.com/watch?v=JzZFccCEgGA)
+
 
 ## Week 3 _____ Aug 14 – Aug 20
 #### Codecademy
