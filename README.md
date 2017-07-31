@@ -3,6 +3,9 @@
 A syllabus to add to my JavaScript and front-end skills over eight weeks.
 
 ## Objectives
+- Learn JavaScript (enough to make a kickass project)
+- Brush up on CSS layout and responsive design
+- Practice CSS/jQuery animation
 
 ## Projects
 - [ ] New portfolio website
