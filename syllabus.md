@@ -21,6 +21,9 @@
 #### Articles
 - [ ] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
 - [ ] [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
@@ -40,9 +43,14 @@
 - [ ] Chapter 4: Decisions and Loops
 - [ ] Chapter 5: Document Object Model
 - [ ] Chapter 10: Error Handling and Debugging
-
 #### Videos
 - [ ] [Google Chrome Developer Tools](https://www.youtube.com/watch?v=JzZFccCEgGA)
+#### Articles
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
@@ -61,6 +69,9 @@
 #### Articles
 - [ ] [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - [ ] [JavaScript Variable Scope and Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
@@ -69,6 +80,12 @@
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [ ] Chapter 13: Form Enhancement & Validation
 - [ ] Chapter 8: Ajax & JSON
+#### Articles
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
@@ -76,6 +93,12 @@
 ## Week 5 _____ Aug 28 – Sept 3
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [ ] Chapter 9: APIs
+#### Articles
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
@@ -84,14 +107,32 @@
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [ ] Chapter 11: Content Panels
 - [ ] Chapter 12: Filtering, Searching, & Sorting
+#### Articles
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
 
 ## Week 7 _____ Sept 11 – Sept 17
+#### Articles
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
 
 
 
 ## Week 8 _____ Sept 18 – Sept 24
+#### Articles
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
+- [ ] Read an article relevant to study (TBD)
 <br>
