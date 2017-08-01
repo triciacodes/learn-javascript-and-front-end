@@ -1,6 +1,6 @@
 # Learn JavaScript and Front-End
 
-A syllabus to add to my JavaScript and front-end skills over eight weeks. This syllabus is partially filled out. I've front loaded the first couple of weeks, and will adjust as needed.
+A learning plan to add to my JavaScript and front-end skills over eight weeks. This syllabus is partially filled out. I've front loaded the first couple of weeks, and will adjust as needed.
 
 ## Objectives
 - Learn JavaScript (enough to make a kickass project)
@@ -39,3 +39,4 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks. This s
 - [LC101](http://education.launchcode.org/skills-front-end/course-outline/)
 - [Learnhowtoprogram.com](https://www.learnhowtoprogram.com/intro-to-programming)
 - [A Smarter Way to Learn](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+- [HackerRank](https://www.hackerrank.com/contests/7days-javascript/challenges/helloworld-1)
