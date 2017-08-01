@@ -8,7 +8,6 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks. This s
 - Practice CSS/jQuery animation
 - Become more familiar with SVG
 - Learn Sass
-<br>
 
 ## Projects
 - [ ] New portfolio website
@@ -16,7 +15,6 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks. This s
 - [ ] Editorial project (TBD)
 - [ ] Complex JavaScript project (TBD)
 - [ ] Project incorporating Python/Flask (TBD)
-<br>
 
 ## Reference
 #### JavaScript
@@ -30,16 +28,14 @@ A syllabus to add to my JavaScript and front-end skills over eight weeks. This s
 - [CSS Reference](http://cssreference.io/)
 #### Misc
 - [MDN: SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
-<br>
 
 ## Tools
 - [JSFiddle](https://jsfiddle.net)
 - [CodePen](https://codepen.io)
-<br>
 
 ## Exercises
 - [Exercism](http://exercism.io/languages/javascript/exercises)
 - [Codewars](https://www.codewars.com/)
 - [LC101](http://education.launchcode.org/skills-front-end/course-outline/)
 - [Learnhowtoprogram.com](https://www.learnhowtoprogram.com/intro-to-programming)
-<br>
+- [A Smarter Way to Learn](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
