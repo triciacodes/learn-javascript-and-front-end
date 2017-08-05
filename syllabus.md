@@ -15,8 +15,8 @@
 - [ ] Booleans
 - [ ] Loops of Logic
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
-- [ ] Chapter 1: The ABC of Programming
-- [ ] Chapter 2: Basic JavaScript Instructions
+- [x] Chapter 1: The ABC of Programming
+- [x] Chapter 2: Basic JavaScript Instructions
 - [ ] Chapter 3: Functions, Methods, & Objects
 #### Articles
 - [ ] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
