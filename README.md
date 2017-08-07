@@ -28,6 +28,7 @@ A learning plan to add to my JavaScript and front-end skills over eight weeks. T
 - [CSS Reference](http://cssreference.io/)
 #### Misc
 - [MDN: SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [Sass Reference](http://sass-lang.com/guide)
 
 ## Tools
 - [JSFiddle](https://jsfiddle.net)
