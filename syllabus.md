@@ -3,7 +3,7 @@
 - [ ] [HTML & CSS](http://learn.shayhowe.com/html-css/) (_review Box Model, Positioning Content, Writing Your Best Code_)
 - [ ] [Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/) (_skim_)
 #### Codecademy
-- [ ] [JavaScript](https://www.codecademy.com/learn/learn-javascript)
+- [x] [JavaScript](https://www.codecademy.com/learn/learn-javascript)
 - [ ] [JavaScript/Old](https://www.codecademy.com/learn/javascript)
 #### [Watch and Code: Practical JavaScript](https://watchandcode.com)
 - [x] Introduction
