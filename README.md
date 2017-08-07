@@ -1,6 +1,6 @@
 # Learn JavaScript and Front-End
 
-A learning plan to add to my JavaScript and front-end skills over eight weeks. The [syllabus](https://github.com/tricialeach/learn-javascript-and-front-end/blob/master/syllabus.md) is partially filled out. I've front loaded the first couple of weeks, and will adjust as needed.
+A learning plan to add to my JavaScript and front-end skills over eight weeks. The [schedule](https://github.com/tricialeach/learn-javascript-and-front-end/blob/master/schedule.md) is partially filled out. I've front loaded the first couple of weeks, and will adjust as needed.
 
 ## Objectives
 - Learn JavaScript (enough to make a kickass project)
