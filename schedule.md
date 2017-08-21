@@ -1,4 +1,4 @@
-## Week 1 _____ July 31 – Aug 6
+## Section 1
 #### Shay Howe
 - [ ] [HTML & CSS](http://learn.shayhowe.com/html-css/) (_review Box Model, Positioning Content, Writing Your Best Code_)
 - [ ] [Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/) (_skim_)
@@ -11,9 +11,9 @@
 - [x] Tools
 - [x] Arrays
 - [x] Functions
-- [ ] Objects
-- [ ] Booleans
-- [ ] Loops of Logic
+- [x] Objects
+- [x] Booleans
+- [x] Loops of Logic
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [x] Chapter 1: The ABC of Programming
 - [x] Chapter 2: Basic JavaScript Instructions
@@ -28,7 +28,7 @@
 
 
 
-## Week 2 _____ Aug 5 – Aug 13
+## Section 2
 #### Codecademy
 - [ ] [Sass](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Responsive Design](https://www.codecademy.com/learn/learn-responsive-design) _(this should be a quick review)_
@@ -55,7 +55,7 @@
 
 
 
-## Week 3 _____ Aug 14 – Aug 20
+## Section 3
 #### Codecademy
 - [ ] [jQuery](https://www.codecademy.com/learn/jquery)
 #### [Watch and Code: Practical JavaScript](https://watchandcode.com)
@@ -76,7 +76,7 @@
 
 
 
-## Week 4 _____ Aug 21 – Aug 27
+## Section 4
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [ ] Chapter 13: Form Enhancement & Validation
 - [ ] Chapter 8: Ajax & JSON
@@ -90,7 +90,7 @@
 
 
 
-## Week 5 _____ Aug 28 – Sept 3
+## Section 5
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [ ] Chapter 9: APIs
 #### Articles
@@ -103,7 +103,7 @@
 
 
 
-## Week 6 _____ Sept 4 – Sept 10
+## Section 6
 #### [JavaScript and jQuery](https://www.amazon.com/JavaScript-jQuery-Interactive-Front-End-Development/dp/1118871650/) by Jon Duckett
 - [ ] Chapter 11: Content Panels
 - [ ] Chapter 12: Filtering, Searching, & Sorting
@@ -117,7 +117,7 @@
 
 
 
-## Week 7 _____ Sept 11 – Sept 17
+## Section 7
 #### Articles
 - [ ] Read an article relevant to study (TBD)
 - [ ] Read an article relevant to study (TBD)
@@ -128,7 +128,7 @@
 
 
 
-## Week 8 _____ Sept 18 – Sept 24
+## Section 8
 #### Articles
 - [ ] Read an article relevant to study (TBD)
 - [ ] Read an article relevant to study (TBD)
