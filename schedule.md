@@ -33,7 +33,7 @@
 - [ ] [Sass](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Responsive Design](https://www.codecademy.com/learn/learn-responsive-design) _(this should be a quick review)_
 #### [Watch and Code: Practical JavaScript](https://watchandcode.com)
-- [ ] Thinking in Code
+- [x] Thinking in Code
 - [ ] Data Types and Comparisons
 - [ ] HTML and the DOM
 - [ ] Debugger
