@@ -34,7 +34,7 @@
 - [ ] [Responsive Design](https://www.codecademy.com/learn/learn-responsive-design) _(this should be a quick review)_
 #### [Watch and Code: Practical JavaScript](https://watchandcode.com)
 - [x] Thinking in Code
-- [ ] Data Types and Comparisons
+- [x] Data Types and Comparisons
 - [ ] HTML and the DOM
 - [ ] Debugger
 - [ ] Getting Data from Inputs
