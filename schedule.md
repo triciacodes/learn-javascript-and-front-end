@@ -21,9 +21,6 @@
 #### Articles
 - [ ] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
 - [ ] [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-- [ ] Read an article relevant to study (TBD)
-- [ ] Read an article relevant to study (TBD)
-- [ ] Read an article relevant to study (TBD)
 <br>
 
 
