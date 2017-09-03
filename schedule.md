@@ -35,7 +35,7 @@
 #### [Watch and Code: Practical JavaScript](https://watchandcode.com)
 - [x] Thinking in Code
 - [x] Data Types and Comparisons
-- [ ] HTML and the DOM
+- [x] HTML and the DOM
 - [ ] Debugger
 - [ ] Getting Data from Inputs
 - [ ] Escape from the Console
