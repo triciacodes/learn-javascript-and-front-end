@@ -18,6 +18,7 @@
 - [x] Chapter 1: The ABC of Programming
 - [x] Chapter 2: Basic JavaScript Instructions
 - [ ] Chapter 3: Functions, Methods, & Objects
+- [ ] Add highlighted notes to Evernote
 #### Articles
 - [ ] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
 - [ ] [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
