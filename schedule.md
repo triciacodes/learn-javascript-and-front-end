@@ -20,7 +20,7 @@
 - [ ] Chapter 3: Functions, Methods, & Objects
 - [ ] Add highlighted notes to Evernote
 #### Articles
-- [ ] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
+- [x] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
 - [ ] [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 <br>
 
