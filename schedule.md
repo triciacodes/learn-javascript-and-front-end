@@ -22,6 +22,7 @@
 #### Articles
 - [x] [JavaScript for Cats](http://jsforcats.com/) _(how could I not read this?)_
 - [ ] [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [ ] [ES6 let VS const variables](http://wesbos.com/let-vs-const/)
 <br>
 
 
